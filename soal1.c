@@ -28,11 +28,11 @@ int compare (const void *a, const void *b) {
     artefak *p2 = (artefak *)b;
 
     //prioritas pertama, kategori alfabetis naik
-    if(strcmp(p1->kategori, p2->kategori) < 0){
+    if(strcmp(p1->kategori, p2->kategori) > 0){
         return p2->kategori - p1->kategori;
     }
     //priotitas kedua, tahun naik
-    if (p1->tahun != p2->tahun) {
+    if (p1->tahun > p2->tahun) {
         return p1->tahun - p2->tahun; 
     }
     //prioritas ketiga, nilai turun
