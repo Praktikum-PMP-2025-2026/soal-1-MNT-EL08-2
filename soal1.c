@@ -73,7 +73,7 @@ int compare (const void *a, const void *b) {
 
     //mencetak nilai hasil pengurutan
     for(int i = 0; i < n; i++){
-        printf("%s %s %d %d \n", data[i].kategori, data[i].nama, data[i].tahun, data[i].nilai);
+        printf("%s %s %d %d\n", data[i].kategori, data[i].nama, data[i].tahun, data[i].nilai);
     }
 
     free(data);
