@@ -3,7 +3,7 @@
  *   Hari dan Tanggal    : Rabu, 29 April 2026
  *   Nama (NIM)          : Salman Santika Abdullah (13224084)
  *   Nama File           : soal1.c
- *   Deskripsi           : Membuat sistem arsip yang dapat menghasilkan urutan akhir yang sesuai dengan prioritas pengelompokan yang 
+ *   Deskripsi           : Membuat1 sistem arsip yang dapat menghasilkan urutan akhir yang sesuai dengan prioritas pengelompokan yang 
 telah disepakati. 
  * 
  */
